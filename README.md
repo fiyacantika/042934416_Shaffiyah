@@ -1,1 +1,32 @@
 # 042934416_Shaffiyah
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Informasi Saya</title>
+  <style>
+    body {
+      background-color: #f8f7f2;
+      font-family: Cambria, serif;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 48px;
+      text-align: center;
+      color: #c0b283;
+      margin-top: 50px;
+    }
+
+    p {
+      font-size: 24px;
+      color: #ab9360;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Informasi Pribadi</h1>
+  <p>Nama: Shaffiyah Cantika Kamia</p>
+  <p>NIM: 042934416</p>
+</body>
+</html>
