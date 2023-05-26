@@ -1,5 +1,4 @@
-# 042934416_Shaffiyah
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Informasi Saya</title>
